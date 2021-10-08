@@ -1,3 +1,2 @@
 # OSSP
-Hello World!
 potato
